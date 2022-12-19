@@ -1,7 +1,0 @@
-Read and understand C program from book and rewrite the program in Java/Python
-
-Components should be distinguishable 
-
-Starts from page 51
-
-Due date: End of October
